@@ -1,0 +1,790 @@
+[
+  {
+    "id": 1,
+    "titulo": "Sembrar semillas de tomate",
+    "objetivo": "Colocar las semillas de tomate en el almácigo.",
+    "contexto": "Almacigo preparado.",
+    "recursos": [
+      "semillas de tomate",
+      " almácigo."
+    ],
+    "actores": [
+      "huertero",
+      " ingeniero agrónomo."
+    ],
+    "episodios": " El ingeniero agrónomo elige las semillas de tomate. El huertero coloca las semillas de tomate en el almácigo. El huertero pulveriza con agua el almácigo."
+  },
+  {
+    "id": 2,
+    "titulo": "Realizar Injerto",
+    "objetivo": "Lograr una planta nueva con mayor rendimiento",
+    "contexto": "Planta asentada y porción de tejido de otra planta",
+    "recursos": [
+      "planta de tomate."
+    ],
+    "actores": [
+      "ingeniero agrónomo - huertero"
+    ],
+    "episodios": " El ingeniero agrónomo selecciona porción de tejido de una planta de tomate  El huertero realiza el injerto."
+  },
+  {
+    "id": 3,
+    "titulo": "Injertar",
+    "objetivo": "Generar una planta nueva, y de mayor rendimiento.",
+    "contexto": "La planta de tomate asentada está en etapa madura. Y se tiene una plántula a injertar",
+    "recursos": [
+      "Planta de tomate",
+      " Plantula",
+      " tijera",
+      " alcohol",
+      " tallo",
+      " cinta adhesiva."
+    ],
+    "actores": [
+      "ingeniero agrónomo",
+      " huertero."
+    ],
+    "episodios": " El ingeniero agrónomo selecciona una plántula para realizar el injerto. El ingeniero agrónomo desinfecta las tijeras con alcohol. El ingeniero agrónomo realiza cortes en la plántula de manera que obtenga forma de punta. El ingeniero agrónomo selecciona un espacio firme en el tallo de la planta de tomate a injertar. El ingeniero agrónomo realiza un corte en diagonal sobre el espacio elegido en el tallo. El ingeniero agrónomo coloca el injerto ensamblado en el corte diagonal en el tallo. El ingeniero agrónomo une con cinta adhesiva la plántula al tallo. El ingeniero agrónomo espera dos semanas para que los cortes se sanen. El ingeniero agrónomo retira la cinta adhesiva."
+  },
+  {
+    "id": 4,
+    "titulo": "Regar",
+    "objetivo": "Consiste en aportar agua a las semillas y a las plantas de tomate para satisfacer las necesidades hídricas",
+    "contexto": "semillas en almácigo y planta de tomate en tierra",
+    "recursos": [
+      "planta de tomate",
+      " tierra",
+      " agua",
+      " mecanismo de riego"
+    ],
+    "actores": [
+      "ingeniero agrónomo"
+    ],
+    "episodios": " El ingeniero agrónomo selecciona mecanismo de riego. El ingeniero agrónomo decide la intensidad del riego en base al estudio de suelo. El huertero riega con mecanismo de riego y agua."
+  },
+  {
+    "id": 5,
+    "titulo": "Regar semillas",
+    "objetivo": "Aportar agua a las semillas.",
+    "contexto": "Las semillas están plantadas en el almácigo. Se tiene una regadera llena de agua",
+    "recursos": [
+      "Agua",
+      " semillas",
+      " Almácigo",
+      " regadera."
+    ],
+    "actores": [
+      "ingeniero agrónomo."
+    ],
+    "episodios": " El ingeniero agrónomo analiza el almácigo. El ingeniero agrónomo determina que el almácigo no tiene la humedad suficiente para las semillas. El ingeniero agrónomo cuidadosamente realiza el riego con la regadera."
+  },
+  {
+    "id": 6,
+    "titulo": "Regar planta de tomate.",
+    "objetivo": "proveer agua para hidratar la planta de tomate.",
+    "contexto": "Tener una planta de tomate en cualquier estado de madurez.",
+    "recursos": [
+      "Planta de tomate",
+      " Regadera",
+      " Agua",
+      " lixiviado de lombriz."
+    ],
+    "actores": [
+      "ingeniero agrónomo."
+    ],
+    "episodios": " El ingeniero agrónomo realiza un análisis de la planta de tomate. El ingeniero agrónomo determina que la planta de tomate necesita hidratación. El ingeniero agrónomo llena de agua la regadera. El ingeniero agrónomo deposita en la regadera un poco de lixiviado de lombriz para alimentar la planta. El ingeniero agrónomo irriga cuidadosamente la base de la planta de tomate."
+  },
+  {
+    "id": 7,
+    "titulo": "Fumigar",
+    "objetivo": "Echar productos químicos sobre las plantas de tomate para eliminar plagas de los cultivos.",
+    "contexto": "Descubrimiento de plaga de insectos en plantas de tomate",
+    "recursos": [
+      "planta de tomate",
+      " plaguicida",
+      " tomate"
+    ],
+    "actores": [
+      "huertero",
+      " Plaga",
+      " ingeniero agrónomo"
+    ],
+    "episodios": " El huertero detecta desarrollo anormal en Planta de Tomate. La plaga destruye hojas, tallos y frutos de la Planta de Tomate. La Plaga dañan a la planta de tomate El ingeniero agrónomo analiza tipo de plaga. El ingeniero agrónomo prepara plaguicida. El ingeniero agrónomo elige el plaguicida. El huertero fumiga con plaguicidas las plantas de Tomate."
+  },
+  {
+    "id": 8,
+    "titulo": "Fumigar",
+    "objetivo": "Eliminar la/s plaga/s encontradas en una planta de tomate.",
+    "contexto": "Se tiene una planta de tomate enferma a causa de una plaga. O se tiene un principio de enfermedad en la planta de tomate a causa de una plaga.",
+    "recursos": [
+      "plaguicida",
+      " planta de tomate",
+      " plaga."
+    ],
+    "actores": [
+      "ingeniero agrónomo."
+    ],
+    "episodios": " El ingeniero agrónomo analiza la planta. El ingeniero agrónomo detecta una plaga en la planta. El ingeniero agrónomo estudia la plaga. El ingeniero agrónomo determina el tipo de plaga. El ingeniero agrónomo determina el tipo de plaguicida a usar. El ingeniero agrónomo pulveriza el plaguicida en la planta."
+  },
+  {
+    "id": 9,
+    "titulo": "Desmalezar",
+    "objetivo": "Eliminar las malas hierbas alrededor de la planta del tomate",
+    "contexto": "Suelo con maleza",
+    "recursos": [
+      "planta de tomate",
+      " Herramientas",
+      " maleza"
+    ],
+    "actores": [
+      "huertero – ingeniero agrónomo"
+    ],
+    "episodios": " Las malezas impiden el desarrollo normal de la planta de tomate El ingeniero agrónomo detecta la maleza en la Planta de Tomate. El huertero quita la maleza de la tierra"
+  },
+  {
+    "id": 10,
+    "titulo": "Desmalezar",
+    "objetivo": "Eliminar las malas hierbas alrededor de la planta que le roban nutrientes a la misma.",
+    "contexto": "se tiene una planta de tomate en cualquier estado de maduración con malezas alrededor de la misma.",
+    "recursos": [
+      "planta de tomates",
+      " lixiviado de lombriz",
+      " agua."
+    ],
+    "actores": [
+      "ingeniero agrónomo",
+      " maleza."
+    ],
+    "episodios": " El ingeniero agrónomo detecta malezas alrededor de la planta de tomate. El ingeniero agrónomo arranca las malezas de forma cuidadosa El ingeniero agrónomo verifica que no haya vestigios de maleza alrededor de la planta de tomate. El ingeniero agrónomo le echa lixiviado de lombriz diluido en agua a la planta para aportar nutrientes."
+  },
+  {
+    "id": 11,
+    "titulo": "Trasplantar Planta de Tomate",
+    "objetivo": "Pasar la planta de tomate del almácigo a la tierra",
+    "contexto": "tierra preparada",
+    "recursos": [
+      "planta de tomate",
+      " tierra",
+      " agua",
+      " mecanismo de riego."
+    ],
+    "actores": [
+      "huertero"
+    ],
+    "episodios": " El huertero prepara la tierra. El huertero elige las plantas de tomates del almácigo. El huertero pasa las plantas de tomates del almácigo a la tierra. El ingeniero agrónomo elige mecanismo de riego."
+  },
+  {
+    "id": 12,
+    "titulo": "Trasplantar Planta de Tomate",
+    "objetivo": "Pasar la planta de tomate del almácigo a la tierra",
+    "contexto": "Se tiene una planta de tomate en un estado adulto y listo para ser trasplantado.",
+    "recursos": [
+      "planta de tomate",
+      " tierra",
+      " agua",
+      " mecanismo de riego",
+      " compost",
+      " pala."
+    ],
+    "actores": [
+      "huertero"
+    ],
+    "episodios": " El huertero afloja la tierra con la pala. El huertero hace un hoyo con la pala. El huertero pone un poco de compost. El huertero toma cuidadosamente la planta de tomate del almácigo. El huertero deposita la planta en el hoyo en la tierra. El huertero termina de tapar la base de la planta. El huertero presiona la tierra asegurando que no queden huecos de aire del hoyo tapado. El huertero riega de forma abundante la base de la planta. El huertero instala un mecanismo de riego. El huertero ajusta el mecanismo de riego."
+  },
+  {
+    "id": 13,
+    "titulo": "Podar Planta de Tomate",
+    "objetivo": "Cortar o quitar las ramas superfluas de las plantas para que crezcan y se desarrollen con más vigor.",
+    "contexto": "planta de tomate desarrollada",
+    "recursos": [
+      "planta de tomate",
+      " tierra",
+      " agua",
+      ""
+    ],
+    "actores": [
+      "huertero",
+      " Enfermedad"
+    ],
+    "episodios": " El huertero detecta las plantas de tomate con crecimiento anormal. El huertero corta las ramas superfluas de la planta de tomate"
+  },
+  {
+    "id": 14,
+    "titulo": "Podar Planta de Tomate",
+    "objetivo": "Cortar o quitar las ramas superfluas de la planta de tomate para que se desarrollen con más vigor.",
+    "contexto": "Se tiene una planta de tomate desarrollada y necesitada de poda.",
+    "recursos": [
+      "planta de tomate",
+      " tijera de podar",
+      ""
+    ],
+    "actores": [
+      "huertero"
+    ],
+    "episodios": " El huertero detecta las plantas de tomate con un montón de ramas tupidas. El huertero examina las ramas. El huertero decide cuáles ramas debe cortar. El huertero corta las ramas superfluas de la planta de tomate con una tijera de podar. El huertero acomoda las ramas restantes de las plantas para que no toquen el piso."
+  },
+  {
+    "id": 15,
+    "titulo": "Cosechar",
+    "objetivo": "recolectar los frutos del tomate de la tierra cuando ya están maduros para su consumo.",
+    "contexto": "Tomate alcanzan madurez.",
+    "recursos": [
+      "planta de tomate",
+      " tomate",
+      " cajón."
+    ],
+    "actores": [
+      "ingeniero agrónomo - huertero."
+    ],
+    "episodios": " El ingeniero agrónomo analiza la Planta de Tomate. El ingeniero agrónomo determina que la Planta de Tomate alcanzó el estado de madurez. El ingeniero agrónomo decide cuándo cosechar el Tomate maduro. El huertero cosecha el Tomate de la Planta de Tomate. El huertero coloca los tomates cosechados en el cajón."
+  },
+  {
+    "id": 16,
+    "titulo": "Cosechar.",
+    "objetivo": "Recolectar los frutos de la planta de tomate cuando ya están maduros para su consumo.",
+    "contexto": "Los tomates de la planta de tomate alcanzan madurez.",
+    "recursos": [
+      "planta de tomate",
+      " tomate",
+      " cajón de cosecha."
+    ],
+    "actores": [
+      "ingeniero agrónomo",
+      " huertero"
+    ],
+    "episodios": " El ingeniero agrónomo analiza la Planta de Tomate. El ingeniero agrónomo determina que la Planta de Tomate alcanzó el estado de madurez. El ingeniero agrónomo decide cuándo cosechar el Tomate maduro. El ingeniero agrónomo le dice al huertero cuando debe cosechar el tomate. El huertero espera a que sea el momento de la cosecha. El huertero toma un cajón de cosecha. El huertero cosecha los tomates de la planta de tomate. El huertero coloca los tomates cosechados en el cajón de cosecha."
+  },
+  {
+    "id": 17,
+    "titulo": "Elegir Mecanismo de Riego",
+    "objetivo": "Elegir un mecanismo de riego en base al estudio de suelo y la disponibilidad del agua.",
+    "contexto": "diferentes mecanismos de riego.",
+    "recursos": [
+      "mecanismos de riego",
+      " agua"
+    ],
+    "actores": [
+      "ingeniero agrónomo - huertero"
+    ],
+    "episodios": " El ingeniero agrónomo elige un mecanismo de riego en base al estudio de suelo. El ingeniero agrónomo instala el mecanismo de riego. El huertero utiliza el mecanismo de riego"
+  },
+  {
+    "id": 18,
+    "titulo": "Seleccionar Mecanismo de Riego",
+    "objetivo": "Elegir un mecanismo de riego en base al estudio de suelo y la disponibilidad del agua.",
+    "contexto": "Se tienen diferentes mecanismos de riego.",
+    "recursos": [
+      "mecanismos de riego",
+      " agua",
+      " estudio del suelo"
+    ],
+    "actores": [
+      "ingeniero agrónomo - huertero"
+    ],
+    "episodios": " El ingeniero agrónomo estudia el suelo. El ingeniero agrónomo estudia la disponibilidad del agua. El ingeniero agrónomo elige un mecanismo de riego en base al estudio de suelo y la disponibilidad de agua. El ingeniero agrónomo instala el mecanismo de riego. El ingeniero agrónomo le indica al huertero cómo utilizar el mecanismo de riego. El huertero utiliza el mecanismo de riego."
+  },
+  {
+    "id": 19,
+    "titulo": "Control de Enfermedades Abióticas",
+    "objetivo": "Manejo de enfermedades por falta o el exceso de algún factor necesario para la vida de la Planta de Tomate.",
+    "contexto": "enfermedad en planta de tomate.",
+    "recursos": [
+      "fertilizante",
+      " nutrientes",
+      " tierra",
+      " almácigo"
+    ],
+    "actores": [
+      "ingeniero agrónomo - Enfermedad Abiótica - huertero"
+    ],
+    "episodios": " La enfermedad Abiótica se manifiesta en la Planta de Tomate El huertero detecta enfermedad Abiótica. El ingeniero agrónomo aplica fertilizante a base de calcio. El huertero controla la temperatura de los almácigos. El ingeniero agrónomo proporciona nutrición adecuada a la planta de tomate."
+  },
+  {
+    "id": 20,
+    "titulo": "Control de Enfermedades Abióticas",
+    "objetivo": "Manejo de enfermedades por falta o el exceso de algún factor necesario para la vida de la Planta de Tomate.",
+    "contexto": "Se tiene una planta de tomate enferma.",
+    "recursos": [
+      "fertilizante",
+      " nutrientes",
+      " tierra",
+      " almácigo"
+    ],
+    "actores": [
+      "ingeniero agrónomo - Enfermedad Abiótica - huertero"
+    ],
+    "episodios": " La enfermedad Abiótica se manifiesta en la Planta de Tomate La enfermedad Abiótica daña a la planta de tomate. El huertero detecta enfermedad Abiótica. El huertero avisa al ingeniero agrónomo del estado de la planta. El ingeniero agrónomo estudia la enfermedad abiótica de la planta de tomate. El ingeniero agrónomo analiza una solución. El ingeniero agrónomo aplica fertilizante a base de calcio. El huertero controla la temperatura de los almácigos. El ingeniero agrónomo proporciona nutrición adecuada a la planta de tomate. El ingeniero agrónomo le deja indicaciones al huertero para seguir el tratamiento. El huertero sigue las indicaciones. La Enfermedad abiótica desaparece de la planta."
+  },
+  {
+    "id": 21,
+    "titulo": "Control Enfermedades Fungosas",
+    "objetivo": "Manejo de Enfermedades causada por Hongos, los síntomas son manchas blancas, grises o negruzcas y podredumbres (Por ejemplo el Mindiu, La ceniza y la Antracnosis)",
+    "contexto": "enfermedad en planta de tomate.",
+    "recursos": [
+      "fertilizante",
+      " nutrientes",
+      " tierra",
+      " almácigo"
+    ],
+    "actores": [
+      "ingeniero agrónomo",
+      " Enfermedad Fungosa"
+    ],
+    "episodios": " La Enfermedad Fungosa se manifiesta en la Planta de Tomate El ingeniero agrónomo detecta la Enfermedad Fungosa. El ingeniero agrónomo evita que el fruto de la planta de tomate roce con la tierra. El ingeniero agrónomo utiliza fungicidas para proteger la planta de tomate. El ingeniero agrónomo realiza podas de la planta de tomate. El ingeniero agrónomo elimina las plantas de tomates enfermas. El ingeniero agrónomo controla el riego de la planta de tomate."
+  },
+  {
+    "id": 22,
+    "titulo": "Controlar enfermedades fungosas",
+    "objetivo": "Controlar enfermedades causadas por hongos (mildiu, ceniza, antracnosis)",
+    "contexto": "Un hongo causó manchas blancas, manchas grises, manchas negruzcas o podredumbres en la planta de tomate",
+    "recursos": [
+      "funguicida",
+      " podadora",
+      " agua"
+    ],
+    "actores": [
+      "ingeniero agrónomo"
+    ],
+    "episodios": " El ingeniero agrónomo detecta la enfermedad fungosa. El ingeniero agrónomo aparta el fruto de la tierra. El ingeniero agrónomo aplica funguicidas. El ingeniero agrónomo poda la planta de tomate. El ingeniero agrónomo elimina las plantas de tomate enfermas. El ingeniero agrónomo controla el riego de la planta de tomate."
+  },
+  {
+    "id": 23,
+    "titulo": "Control Enfermedades bacterianas",
+    "objetivo": "Manejo de enfermedades causadas por bacterias son reconocibles por la aparición de pústulas en tallos y frutos y por la formación de manchas necróticas en frutos.",
+    "contexto": "enfermedad en planta de tomate.",
+    "recursos": [
+      "fertilizante",
+      " nutrientes",
+      " tierra",
+      " herramientas"
+    ],
+    "actores": [
+      "ingeniero agrónomo – huertero - Enfermedad bacteriana"
+    ],
+    "episodios": " La Enfermedad bacteriana se manifiesta en la Planta de Tomate El ingeniero agrónomo detecta la Enfermedad bacteriana. El huertero elimina los frutos enfermos. El ingeniero agrónomo utiliza semillas sanas y desinfectadas. El ingeniero agrónomo desinfecta materiales y equipo de trabajo. El ingeniero agrónomo elimina plantas enfermas."
+  },
+  {
+    "id": 24,
+    "titulo": "Controlar enfermedades bacterianas",
+    "objetivo": "Controlar enfermedades causadas por bacterias",
+    "contexto": "Una bacteria causó pústulas en tallos y frutos o manchas necróticas en frutos",
+    "recursos": [
+      "semillas",
+      " desinfectante"
+    ],
+    "actores": [
+      "ingeniero agrónomo",
+      " huertero"
+    ],
+    "episodios": " El ingeniero agrónomo detecta la enfermedad bacteriana. El huertero elimina los frutos enfermos. El ingeniero agrónomo elimina las plantas enfermas. El ingeniero agrónomo desinfecta los materiales y el equipo de trabajo. El ingeniero agrónomo desinfecta las semillas sanas. El ingeniero agrónomo planta las semillas desinfectadas."
+  },
+  {
+    "id": 25,
+    "titulo": "Control de Enfermedades Virales",
+    "objetivo": "Manejo de enfermedades causadas por virus producen manchas de diferentes colores en hojas, el virus del bronceado produce decoloración de hojas y muy evidente en frutos.",
+    "contexto": "enfermedad en planta de tomate.",
+    "recursos": [
+      "fertilizante",
+      " nutrientes",
+      " tierra"
+    ],
+    "actores": [
+      "ingeniero agrónomo - Enfermedad Virales."
+    ],
+    "episodios": " La Enfermedad viral se manifiesta en la Planta de Tomate El ingeniero agrónomo detecta la Enfermedad viral. El ingeniero agrónomo elimina malezas, residuos de cosecha y frutos. El ingeniero agrónomo efectúa control de virus. El ingeniero agrónomo utiliza variedades resistentes. El ingeniero agrónomo siembra plantines sanos. El ingeniero agrónomo desinfecta herramientas de trabajo. El ingeniero agrónomo utiliza trampas para detección y captura de insectos El ingeniero agrónomo utiliza plaguicidas para reducir insectos."
+  },
+  {
+    "id": 26,
+    "titulo": "Controlar enfermedades virales",
+    "objetivo": "Controlar enfermedades causadas por virus",
+    "contexto": "Un virus causó manchas de colores en las hojas. El virus del bronceado causó decoloración de hojas y frutos.",
+    "recursos": [
+      "desmalezadora",
+      " trampas",
+      " plaguicida",
+      " desinfectante",
+      " plantines sanos"
+    ],
+    "actores": [
+      "ingeniero agrónomo"
+    ],
+    "episodios": " El ingeniero agrónomo detecta la enfermedad viral. El ingeniero agrónomo coloca trampas para insectos. El ingeniero agrónomo detecta los insectos capturados. El ingeniero agrónomo reduce los insectos con plaguicidas. El ingeniero agrónomo elimina las malezas. El ingeniero agrónomo elimina los residuos de cosecha. El ingeniero agrónomo desinfecta las herramientas de trabajo. El ingeniero agrónomo selecciona variedades resistentes. El ingeniero agrónomo siembra plantines sanos."
+  },
+  {
+    "id": 27,
+    "titulo": "Encalado del Suelo",
+    "objetivo": "Incorporación a la tierra de calcio y magnesio para neutralizar la acidez del mismo, es decir para que el pH alcance un nivel ideal para el desarrollo normal de los cultivos.",
+    "contexto": "tierra sin encalado",
+    "recursos": [
+      "tierra",
+      " Análisis del Suelo"
+    ],
+    "actores": [
+      "ingeniero agrónomo - huertero"
+    ],
+    "episodios": " El ingeniero agrónomo analiza información de Análisis del Suelo El huertero prepara la tierra El ingeniero agrónomo prepara el líquido con calcio y magnesio. El huertero realiza el encalado de la tierra."
+  },
+  {
+    "id": 28,
+    "titulo": "Encalar la tierra",
+    "objetivo": "Incorporar calcio y magnesio a la tierra para neutralizar la acidez de la tierra.",
+    "contexto": "Se realizó un análisis del suelo en la tierra no encalada",
+    "recursos": [
+      "análisis del suelo",
+      " tierra",
+      " cal",
+      " magnesio"
+    ],
+    "actores": [
+      "ingeniero agrónomo",
+      " huertero"
+    ],
+    "episodios": " El ingeniero agrónomo analiza los resultados del análisis del suelo. El huertero prepara la tierra. El ingeniero agrónomo prepara la mezcla de cal y magnesio. El huertero aplica la mezcla en la tierra."
+  },
+  {
+    "id": 29,
+    "titulo": "Aplicar el abonado de la tierra",
+    "objetivo": "Nutrir la tierra con el fin de alimentar la planta de tomate pueden ser naturales o preparados químicos.",
+    "contexto": "tierra sin abonar",
+    "recursos": [
+      "tierra",
+      " abono"
+    ],
+    "actores": [
+      "ingeniero agrónomo - huertero"
+    ],
+    "episodios": " El ingeniero agrónomo prepara el abono. El huertero abona la tierra."
+  },
+  {
+    "id": 30,
+    "titulo": "Abonar",
+    "objetivo": "Nutrir la tierra con abono natural o preparados químicos para alimentar la planta de tomate.",
+    "contexto": "La tierra no está abonada.",
+    "recursos": [
+      "tierra",
+      " abono"
+    ],
+    "actores": [
+      "ingeniero agrónomo",
+      " huertero"
+    ],
+    "episodios": " El ingeniero agrónomo prepara el abono. El huertero coloca el abono en la tierra."
+  },
+  {
+    "id": 31,
+    "titulo": "Control de Plaga",
+    "objetivo": "Regular una especie de insecto mediante el uso de medidas.",
+    "contexto": "planta de tomate afectada por la plaga",
+    "recursos": [
+      "tierra",
+      " abono"
+    ],
+    "actores": [
+      "ingeniero agrónomo - plaguicida - almácigo - tierra"
+    ],
+    "episodios": " El ingeniero agrónomo pone los almácigos en ambientes protegidos. El ingeniero agrónomo aplica el plaguicida. El ingeniero agrónomo elimina restos de cultivos. El ingeniero agrónomo usa Trampas para Insectos. El ingeniero agrónomo realiza un control biológico. El ingeniero agrónomo utiliza mosquiteras. El ingeniero agrónomo realiza rotación de cultivos."
+  },
+  {
+    "id": 32,
+    "titulo": "Controlar una plaga",
+    "objetivo": "Tomar medidas para regular una especie de insecto",
+    "contexto": "Una plaga afecta la planta de tomate",
+    "recursos": [
+      "almácigo",
+      " plaguicida",
+      " trampa"
+    ],
+    "actores": [
+      "ingeniero agrónomo"
+    ],
+    "episodios": " El ingeniero agrónomo pone los almácigos en ambientes protegidos. El ingeniero agrónomo aplica el plaguicida. El ingeniero agrónomo elimina los restos de cultivo. El ingeniero agrónomo coloca las trampas para insectos. El ingeniero agrónomo realiza un control biológico. El ingeniero agrónomo coloca mosquiteras. El ingeniero agrónomo rota los cultivos."
+  },
+  {
+    "id": 33,
+    "titulo": "Sembrar el semillero",
+    "objetivo": "Germinar el semillero",
+    "contexto": "El huertero debe tener cajas de huerto o cajones de cultivo, tierra, abono compuesto y semillas.",
+    "recursos": [
+      "semillas",
+      " cajas de huerto o cajones de cultivo",
+      " herramientas."
+    ],
+    "actores": [
+      "huertero y ayudante de huertero (si es necesario)"
+    ],
+    "episodios": " El huertero toma la caja de huerto y coloca tierra en cada orificio. El huertero coloca una semilla en cada orificio, completando el mismo con abono compuesto. Colocar la caja de huerto a temperatura (óptima de 16 °C a 28 °C).  Esperar en promedio de cinco a ocho días después de la siembra."
+  },
+  {
+    "id": 34,
+    "titulo": "Abonar el semillero",
+    "objetivo": "Semillero abonado",
+    "contexto": "El huertero debe tener cajas de huerto o cajones de cultivo, tierra, abono compuesto y semillas.",
+    "recursos": [
+      "abono compuesto",
+      " cajas de huerto o cajones de cultivo",
+      " herramientas."
+    ],
+    "actores": [
+      "huertero y ayudante de huertero (si es necesario)"
+    ],
+    "episodios": " El huertero toma la caja de huerto y coloca tierra en cada orificio. El huertero coloca una semilla en cada orificio, completando en una proporción del 35 % al 50 %."
+  },
+  {
+    "id": 35,
+    "titulo": "Regar el semillero",
+    "objetivo": "Regar el semillero",
+    "contexto": "El huertero debe tener el semillero germinando.",
+    "recursos": [
+      "semillero",
+      " herramientas (regadera)",
+      " agua."
+    ],
+    "actores": [
+      "huertero y ayudante de huertero (si es necesario)"
+    ],
+    "episodios": " El huertero toma la regadera con agua. El huertero coloca suavemente agua en cada orificio."
+  },
+  {
+    "id": 36,
+    "titulo": "Trasplantar",
+    "objetivo": "Pasar los plantines del semillero a un lugar definitivo.",
+    "contexto": "El huertero debe tener cajas de huerto o cajones de cultivo con los plantines germinados.",
+    "recursos": [
+      "plantines",
+      " cajas de huerto o cajones de cultivo",
+      " herramientas",
+      " tierra",
+      " agua."
+    ],
+    "actores": [
+      "huertero y ayudante de huertero (si es necesario)"
+    ],
+    "episodios": " El huertero prepara las eras o los lomillos en línea recta, haciendo un hoyo de tamaño ligeramente mayor al volumen ocupado por el recipiente que contiene al plantín.  Durante las horas frescas de la mañana o después de las tres de la tarde, el huertero toma la caja de huerto con los plantines y los transporta al lugar definitivo. Si el terreno está muy seco, el huertero, hace un riego previo a la siembra.  El huertero coloca fertilizante en cada hoyo.  El huertero quita el plantín de la caja de huerto y lo coloca en el hoyo, adicionando tierra a 2 cm o 3 cm de la base del plantín.  Repetir los pasos para la totalidad de los plantines"
+  },
+  {
+    "id": 37,
+    "titulo": "Trasplantar plantines.",
+    "objetivo": "Trasplantar los plantines a un lugar definitivo.",
+    "contexto": "El huertero ha conseguido cajones de cultivo con plantines germinados. Debe ser temprano o luego de las 3 de la tarde. La zona deseada no debe estar seca.",
+    "recursos": [
+      "cajones de cultivo",
+      " plantines",
+      " fertilizante",
+      " tierra",
+      " agua."
+    ],
+    "actores": [
+      "huertero."
+    ],
+    "episodios": " El huertero prepara los lomillos en línea recta, haciendo un hoyo de tamaño ligeramente mayor al volumen ocupado por el recipiente que contiene al plantín.  El huertero agarra el cajón de cultivo. El huertero lleva el cajón de cultivo al lugar deseado. El huertero coloca fertilizante en cada hoyo. El huertero toma un plantín del cajón de cultivo. El huertero coloca el plantín en el hoyo. El huertero agrega tierra a 2 o 3 centímetros de la base del plantín. El huertero continua trasplantando hasta terminar con todos los plantines."
+  },
+  {
+    "id": 38,
+    "titulo": "Regar la Huerta",
+    "objetivo": "Regar la huerta",
+    "contexto": "El huertero y las lluvias escasas.",
+    "recursos": [
+      "cultivo en la huerta",
+      " agua."
+    ],
+    "actores": [
+      "huertero y ayudante de huertero (si es necesario)"
+    ],
+    "episodios": " Dependiendo de las condiciones del cultivo, el huertero decide qué tipo de riesgo aplicar: riego por gravedad, riego por goteo y riego natural."
+  },
+  {
+    "id": 39,
+    "titulo": "Regar la huerta.",
+    "objetivo": "Regar la huerta.",
+    "contexto": "Hay lluvias escasas, y la huerta está seca.",
+    "recursos": [
+      "agua",
+      " tipo de riego."
+    ],
+    "actores": [
+      "huertero."
+    ],
+    "episodios": " El huertero analiza el cultivo. El huertero decide que tipo de riego aplicar. El huertero toma las herramientas necesarias para el riego elegido. El huertero riega la huerta."
+  },
+  {
+    "id": 40,
+    "titulo": "Colocar postes o tutores",
+    "objetivo": "Facilitar el manejo general de las plantas y evitar que los frutos toquen el suelo.",
+    "contexto": "Entre quince y veintidós días posteriores el trasplante.",
+    "recursos": [
+      "postes de caña o bambú",
+      " herramientas."
+    ],
+    "actores": [
+      "huertero y ayudante de huertero (si es necesario)"
+    ],
+    "episodios": " El huertero toma el poste y lo coloca al centro de cada lomillo a una distancia entre postes de 2.5 metros a 3 metros de largo, enterrados a unos 40 cm de profundidad, y a una altura aérea de 2.5 m. para dar mejor soporte a las plantas. El huertero coloca en las cabeceras de cada lomillo un poste de mayor grosor que los internos."
+  },
+  {
+    "id": 41,
+    "titulo": "Colocar postes.",
+    "objetivo": "Facilitar el manejo de las plantas, y evitar que los frutos toquen el suelo.",
+    "contexto": "Tienen que pasar entre 15 y 22 días del trasplante de las plantas.",
+    "recursos": [
+      "Postes de caña o bambú",
+      " de 3 metros aproximadamente."
+    ],
+    "actores": [
+      "huertero."
+    ],
+    "episodios": " El huertero toma un poste. El huertero hace un hoyo en 40 cm de profundidad, separados de otros hoyos por 3 metros. El huertero coloca el poste en el hoyo. El huertero coloca en las cabeceras de cada lomillo un poste de mayor grosor."
+  },
+  {
+    "id": 42,
+    "titulo": "Podar las plantas",
+    "objetivo": "Controlar el desarrollo de la planta.",
+    "contexto": "Pasadas las cuatro semanas de sembrado, las plantas crecen de forma desalineada.",
+    "recursos": [
+      "Pinza de podar."
+    ],
+    "actores": [
+      "huertero y ayudante de huertero (si es necesario)"
+    ],
+    "episodios": " El huertero la pinza de podar y corta, limitando el número de tallos productivos y la cantidad de frutos por planta. El huertero repite el paso anterior por cada planta."
+  },
+  {
+    "id": 43,
+    "titulo": "Podar las plantas.",
+    "objetivo": "Controlar el desarrollo de las plantas.",
+    "contexto": "Deben pasar 4 semanas de sembrado, y las plantas están creciendo de forma desalineada.",
+    "recursos": [
+      "Pinza de podar."
+    ],
+    "actores": [
+      "huertero."
+    ],
+    "episodios": " El huertero toma la pinza de podar. El huertero elige una planta. El huertero corta la planta, limitando número de tallos y frutos por planta. El huertero repite los pasos anteriores, hasta terminar."
+  },
+  {
+    "id": 44,
+    "titulo": "Controlar plagas e insectos",
+    "objetivo": "Liberar a las plantas de las plagas e insectos",
+    "contexto": "Presencia de plagas e insectos durante el ciclo de vida de cultivo del tomate.",
+    "recursos": [
+      "preparados naturales y comerciales",
+      " herramientas."
+    ],
+    "actores": [
+      "huertero",
+      " ayudante de huertero (si es necesario)",
+      " ingeniero agrónomo"
+    ],
+    "episodios": " El ingeniero agrónomo revisa las plantas y detecta los hospederos y el daño que le provoca al cultivo del tomate. El ingeniero agrónomo informa al huertero qué preparado natural y/o artificial debe aplicarse según plaga o insecto detectado. El huertero procede al manejo y control de las plagas e insectos."
+  },
+  {
+    "id": 45,
+    "titulo": "Controlar plagas e insectos.",
+    "objetivo": "Liberar a las plantas de plagas e insectos.",
+    "contexto": "Presencia de plagas o insectos.",
+    "recursos": [
+      "Preparado natural o artificial",
+      " esparcidor."
+    ],
+    "actores": [
+      "ingeniero agrónomo",
+      " huertero"
+    ],
+    "episodios": " El ingeniero agrónomo revisa las plantas. El ingeniero agrónomo analiza los hospederos. El ingeniero agrónomo informa al huertero qué preparado natural o artificial debe aplicarse según plaga o insecto detectado. El huertero realiza o consigue el preparado. El huertero distribuye el preparado con el esparcidor a todas las plantas afectadas."
+  },
+  {
+    "id": 46,
+    "titulo": "Cosecha",
+    "objetivo": "Cosechar los frutos de tomates",
+    "contexto": "Las plantas presentan una madurez fisiológica de la fruta.",
+    "recursos": [
+      "tinas plásticas limpias",
+      " herramientas."
+    ],
+    "actores": [
+      "huertero y ayudante de huertero (si es necesario)"
+    ],
+    "episodios": " El huertero retira manualmente y con cuidado la fruta de la planta. El huertero coloca el fruto retirado en la tina de plástico limpia, evitando golpes."
+  },
+  {
+    "id": 47,
+    "titulo": "cosechar tomate.",
+    "objetivo": "Cosechar los frutos de tomates.",
+    "contexto": "Las plantas presentan una madurez fisiológica de la fruta.",
+    "recursos": [
+      "tinas de plástico limpias."
+    ],
+    "actores": [
+      "huertero."
+    ],
+    "episodios": " El huertero va hacia una planta lista para cosechar. El huertero retira manualmente y con cuidado el tomate. El huertero coloca el tomate en una tina de plástico limpia."
+  },
+  {
+    "id": 48,
+    "titulo": "Hacer el compost",
+    "objetivo": "Disponer de abono orgánico compuesto",
+    "contexto": "El huertero almacena en un lugar separado los residuos orgánicos.",
+    "recursos": [
+      "residuos orgánicos (cáscaras de frutas",
+      " restos de verduras",
+      " cáscaras de huevo",
+      " yerba",
+      " té",
+      " café",
+      " huesos molidos",
+      " hojas",
+      " entre otras)",
+      " tacho de 200 lts",
+      " sin tapa ni fondo con agujeros en toda la superficie",
+      " herramientas."
+    ],
+    "actores": [
+      "huertero y ayudante de huertero (si es necesario)"
+    ],
+    "episodios": " El huertero toma el tacho y lo asienta sobre ladrillos, dejando un espacio (que tapará luego con una madera) y por donde extraerá el compuesto más adelante.  El huertero todos los días arroja en el tacho los restos de cocina, hojas, pastos, yuyos, etc.  Cada tanto el huertero agrega una capa de tierra.  Remueve con la horquilla para airearlo.  Tapar el tacho para que no se moje con el agua de las lluvias.  Luego de un tiempo (2 meses en verano y un poco más, en el invierno), el abono orgánico estará “maduro”. Es decir, cuando ya no sea posible distinguir los residuos.  Separar el abono orgánico “maduro” con una horquilla o zaranda, en más grueso (implica que debe continuar el proceso de descomposición), mediano (es utilizado para colocar entre las plantas como protector del suelo) y el material más fino (utilizado en los almácigos)."
+  },
+  {
+    "id": 49,
+    "titulo": "hacer compost.",
+    "objetivo": "Disponer de abono orgánico compuesto.",
+    "contexto": "El huertero almacena en un lugar separado los residuos orgánicos.",
+    "recursos": [
+      "residuos orgánicos",
+      " recipiente de 200 litros",
+      " ladrillos",
+      " tierra",
+      " horquilla."
+    ],
+    "actores": [
+      "huertero"
+    ],
+    "episodios": " El huertero agarra el recipiente de 200 litros. El huertero lo asienta sobre ladrillos, dejando una pequeña abertura. El huertero arroja residuos orgánicos al recipiente. El huertero agrega una capa de tierra al recipiente. El huertero repite los 2 pasos anteriores hasta llenar el recipiente. El huertero remueve con una horquilla para airear el contenido. El huertero tapa el recipiente. El huertero espera de 2 a 3 meses. El huertero separa el abono obtenido con una horquilla, en grueso, mediano y fino."
+  },
+  {
+    "id": 50,
+    "titulo": "Amarrar las plantas",
+    "objetivo": "Dar sostén y mantener las plantas erectas.",
+    "contexto": "Plantas con 60 cm de altura.",
+    "recursos": [
+      "hilo sisal",
+      " herramientas."
+    ],
+    "actores": [
+      "huertero y ayudante de huertero (si es necesario)"
+    ],
+    "episodios": " El huertero utiliza un hilo sisal para amarrar en forma horizontal los tutores o postes. A medida que la planta va creciendo, el huertero amarra la planta en forma muy suave, evitando no tensar. Se agregan entre tres o cuatro hileras de hilo, conforme al crecimiento de la planta."
+  },
+  {
+    "id": 51,
+    "titulo": "Amarrar las plantas.",
+    "objetivo": "dar sostén y mantener las plantas enderezadas.",
+    "contexto": "Las plantas miden 60 centímetros o más.",
+    "recursos": [
+      "hilo sisal",
+      " poste."
+    ],
+    "actores": [
+      "huertero."
+    ],
+    "episodios": " El huertero localiza una planta encorvada. El huertero utiliza un hilo sisal para amarrar la planta con un poste. El huertero agrega más hileras, dependiendo el tamaño de la planta."
+  }
+]
