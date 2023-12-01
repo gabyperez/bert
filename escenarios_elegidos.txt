@@ -1,68 +1,66 @@
-Sembrar Semillas de Tomate
-Realizar Injerto
-Injertar
-Regar
-Regar semillas
-Fumigar
-Desmalezar
-Trasplantar Planta de Tomate
-Podar Planta de Tomate
-Cosechar
-Elegir Mecanismo de Riego 
-Control Enfermedades Fungosas 
+Elegir Variedad de Tomate
+Colocar bandas o techos plásticos
+Tutorar.
 Control Enfermedades bacterianas
+Desmalezar
+Sembrar
+Hacer el compost 
+Deshierbe 
+Fertirrigar
+Despunte de inflorescencias
+Regar
+Manejo Enfermedades Fungosas
+Fertilizar Almácigo
+Colocar tapavientos 
+Fertilizar cultivo.
+Cosecha del tomate en racimos
+Control Enfermedades Fungosas 
+Trasplantar
+Trasplantar Planta de Tomate
+Elegir Mecanismo de Riego 
+Manejar plagas
+Sembrar Semillas de Tomate
+Aporcar la planta
+Fumigar
+Amarrar tomateras.
+Poscosechar
 Control de Enfermedades Virales
+Manejo Enfermedades bacterianas
 Encalar la tierra
+Fertilizar después del trasplante
+Regar cultivo.
+Tutorado
 Abonar
 Control de Plaga
-Sembrar el semillero
-Abonar el semillero
-Regar el semillero
-Trasplantar plantines.
-Regar la Huerta 
-Colocar postes o tutores
-Podar las plantas 
 Controlar plagas e insectos 
-cosechar tomate.
-Hacer el compost 
-Colocar bandas o techos plásticos
-Poda de Formación
-Despunte de inflorescencias
-Aporcar la planta
-Manejar la polinización de los frutos 
-Colocar tapavientos 
-Quita de malezas
-Controlar hongos 
-Cosecha del tomate en racimos
-Cosecha del tomate individual 
-Siembra de la semilla
-Fertilización
-Deshierbe 
-Tutorado
-Elegir Variedad de Tomate
-Elegir Mecanismo de Riego
-Manejo Enfermedades Fungosas
-Manejo Enfermedades bacterianas
+Trasplantar plantines.
 Encalado del Suelo 
+Podar las plantas 
+Manejar la polinización de los frutos 
+Regar semillas
+Realizar Injerto
+Cosecha del tomate individual 
 Controlar Plaga
+Abonar el semillero
+cosechar tomate.
+Aporcar cultivo.
+Injertar
 Elaborar semillero.
-Sembrar
-Sembrar semillas
-Trasplantar
+Podar Planta de Tomate
+Sembrar el semillero
+Colocar postes o tutores
+Cosechar Tomates
 Trasplantar plántula. 
 Fertilizar
-Fertilizar cultivo.
-Fertilizar Almácigo
-Fertilizar después del trasplante
+Regar la Huerta 
+Fertilización
+Controlar hongos 
+Regar el semillero
+Quita de malezas
+Sembrar semillas
+Elegir Mecanismo de Riego
 Aporcar
-Aporcar cultivo.
-Regar
-Regar cultivo.
-Fertirrigar
-Manejar plagas
-Podar manualmente
-Tutorar.
-Amarrar tomateras.
+Siembra de la semilla
+Poda de Formación
 Cosechar
-Cosechar Tomates
-Poscosechar
+Podar manualmente
