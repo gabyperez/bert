@@ -8,8 +8,8 @@ def descargar_archivo(ruta_archivo):
   with open(ruta_archivo, 'r') as archivo:
     contenido = archivo.read()
   lista = contenido.splitlines()
-  for indice, oracion in enumerate(lista):
-    print(f"Escenario {indice+1}: {oracion}")
   return lista
   
-
+def imprimir_lista(lista):
+    for indice, oracion in enumerate(lista):
+      print(f"Escenario {indice+1}: {oracion}")
