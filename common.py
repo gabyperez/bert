@@ -1,11 +1,15 @@
-def descargar_datos():
-  print("Hola")
+def agregar_punto_al_final(oracion):
+  nueva = oracion.strip()
+  if oracion[-1] != ".":
+    nueva = oracion + "."
+  return nueva
 
-
-def leer_datos():
-  ruta_archivo = '/content/bert/escenarios_elegidos.txt'
+def descargar_archivo(ruta_archivo):
   with open(ruta_archivo, 'r') as archivo:
     contenido = archivo.read()
   lista = contenido.splitlines()
   for indice, oracion in enumerate(lista):
     print(f"Escenario {indice+1}: {oracion}")
+  return lista
+  
+
