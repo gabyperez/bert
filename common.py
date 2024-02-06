@@ -1,3 +1,10 @@
+def limpiar_frases(lista):
+  frases_limpias = []
+  for frase in lista:
+    frase_limpia = agregar_punto_al_final(frase)
+    frases_limpias.append(frase_limpia)
+  return frases_limpias
+
 def agregar_punto_al_final(oracion):
   nueva = oracion.strip()
   if oracion[-1] != ".":
